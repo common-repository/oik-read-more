@@ -1,0 +1,55 @@
+== Upgrade Notice ==
+= 0.2.5 =
+Upgrade for support for PHP 8.1 and PHP 8.2
+
+= 0.2.4 = 
+Tested with WordPress 6.0.1 and WordPress Multi Site.
+
+= 0.2.3 = 
+Tested with WordPress 5.3.1 and WordPress Multi Site.
+
+= 0.2.2 = 
+Tested with WordPress 4.7.3 and WordPress Multisite. Tested with PHP 7.1. Now depends on oik v3.1 or higher.
+
+= 0.2.1 = 
+Tested with WordPress 4.4 and WordPress Multisite. Now depends on oik v2.5 or higher
+
+= 0.2 =
+Tested up to WordPress 4.0
+
+= 0.1 =
+Tested up to WordPress 3.9 
+
+== Changelog ==
+= 0.2.5 =
+* Changed: Support PHP 8.1 and PHP 8.2 #5
+* Tested: With WordPress 6.4-RC1 and WordPress Multisite
+* Tested: With PHP 8.0, PHP 8.1 and PHP 8.2
+* Tested: With PHPUnit 9.6
+
+= 0.2.4 =
+* Changed: Correct a comment
+* Tested: With WordPress 6.0.1 and WordPress Multi Site
+* Tested: With PHP 8.0
+
+= 0.2.3 =
+* Changed: Removed some commented out/redundant code
+* Tested: With WordPress 5.3.1 and WordPress Multi Site
+* Tested: With PHP 7.3 and PHP 7.4 
+
+= 0.2.2 =
+* Changed: Depends on oik v3.1 or higher 
+* Tested: With WordPress 4.7.3 and WordPress Multisite
+* Tested: With PHP 7.1
+
+= 0.2.1 = 
+* Changed: Depends on oik v2.5 or higher
+* Tested: With WordPress 4.4 and WordPress MultiSite
+
+= 0.2 = 
+* Changed: Does not need to set the plugin server for a plugin hosted on WordPress.org
+* Tested: With WordPress 4.0
+* Fixed: readme.txt file
+ 
+= 0.1 =
+* Added: New plugin implementing the [bw_more] shortcode
